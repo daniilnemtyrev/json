@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "name": "Onepunchman",
+        "login": "onepunchman",
+        "password": "1234"
+      },
+      {
+        "name": "Superman",
+        "login": "superman",
+        "password": "12345"
+      },
+      {
+        "name": "DragonBorn",
+        "login": "dragon",
+        "password": "123456"
+      }
+    ]
+  }
